@@ -1,0 +1,23 @@
+{
+  "main.css": "/static/css/main.d209cf54.chunk.css",
+  "main.js": "/static/js/main.f8f21c07.chunk.js",
+  "main.js.map": "/static/js/main.f8f21c07.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.49cf5e58.chunk.css": "/static/css/2.49cf5e58.chunk.css",
+  "static/js/2.b8b85338.chunk.js": "/static/js/2.b8b85338.chunk.js",
+  "static/js/2.b8b85338.chunk.js.map": "/static/js/2.b8b85338.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.16dee8b052f0936a876051ad2c6d55a8.js": "/precache-manifest.16dee8b052f0936a876051ad2c6d55a8.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.49cf5e58.chunk.css.map": "/static/css/2.49cf5e58.chunk.css.map",
+  "static/css/main.d209cf54.chunk.css.map": "/static/css/main.d209cf54.chunk.css.map",
+  "static/media/ali.svg": "/static/media/ali.2c8150e4.svg",
+  "static/media/avatar.jpg": "/static/media/avatar.d7ee4f06.jpg",
+  "static/media/city.png": "/static/media/city.ffc62a12.png",
+  "static/media/form.png": "/static/media/form.986c14ca.png",
+  "static/media/login.png": "/static/media/login.12828f39.png",
+  "static/media/index.css": "/static/media/roboto-latin-900italic.bc833e72.woff",
+  "static/media/top.png": "/static/media/top.7132e08e.png",
+  "static/media/weichat.svg": "/static/media/weichat.7b1706a7.svg"
+}
