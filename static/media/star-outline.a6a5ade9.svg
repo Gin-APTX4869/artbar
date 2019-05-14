@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>star-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程简介" transform="translate(-176.000000, -554.000000)" fill="#4B5B6E" fill-rule="nonzero">
+            <g id="Group" transform="translate(17.000000, 122.000000)">
+                <g id="Details" transform="translate(34.000000, 432.000000)">
+                    <g id="Group-7" transform="translate(113.000000, 0.000000)">
+                        <g id="star-outline" transform="translate(12.000000, 0.000000)">
+                            <path d="M23,8.38778947 L14.73035,7.67336842 L11.5,0 L8.26965,7.67336842 L0,8.38778947 L6.27325,13.8611579 L4.393,22 L11.5,17.6833684 L18.607,22 L16.72675,13.8611579 L23,8.38778947 Z M11.5,15.5111579 L7.17255,18.1395789 L8.31795,13.1826316 L4.4965,9.85021053 L9.5335,9.41484211 L11.5,4.74157895 L13.4665,9.41484211 L18.5035,9.85021053 L14.6832,13.1826316 L15.8286,18.1395789 L11.5,15.5111579 Z" id="形状"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

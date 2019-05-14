@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="21px" viewBox="0 0 33 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>people</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程简介" transform="translate(-66.000000, -556.000000)" fill="#4B5B6E" fill-rule="nonzero">
+            <g id="Group" transform="translate(17.000000, 122.000000)">
+                <g id="Details" transform="translate(34.000000, 432.000000)">
+                    <g id="people" transform="translate(15.000000, 2.000000)">
+                        <path d="M22.5,9 C25.05,9 27,7.05 27,4.5 C27,1.95 25.05,0 22.5,0 C19.95,0 18,1.95 18,4.5 C18,7.05 19.95,9 22.5,9 Z M10.5,9 C13.05,9 15,7.05 15,4.5 C15,1.95 13.05,0 10.5,0 C7.95,0 6,1.95 6,4.5 C6,7.05 7.95,9 10.5,9 Z M10.5,12 C7.05,12 0,13.8 0,17.25 L0,21 L21,21 L21,17.25 C21,13.8 13.95,12 10.5,12 Z M22.5,12 C22.05,12 21.6,12 21,12.15 C22.8,13.35 24,15.15 24,17.25 L24,21 L33,21 L33,17.25 C33,13.8 25.95,12 22.5,12 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

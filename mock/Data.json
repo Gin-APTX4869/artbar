@@ -1,0 +1,202 @@
+{
+    "topSlider": [
+            {
+                "_id": "593e9297e17df20c4a237d42",
+                "index": 0,
+                "picture": "http://pqpuavz67.bkt.clouddn.com/top1.jpg",
+                "author": "Eva Thissen",
+                "info": "细致软陶饰品"
+            },
+            {
+                "_id": "593e9297ec4cca9c56bf61af",
+                "index": 1,
+                "picture": "http://pqpuavz67.bkt.clouddn.com/top2.jpg",
+                "author": "Kitras",
+                "info": "手吹玻璃饰品"
+            },
+            {
+                "_id": "593e929773c71925e5d7c11c",
+                "index": 2,
+                "picture": "http://pqpuavz67.bkt.clouddn.com/top3.jpg",
+                "author": "Bored Panda",
+                "info": "创意购物袋设计"
+            },
+            {
+                "_id": "593e92973d4d15eedb129aee",
+                "index": 3,
+                "picture": "http://pqpuavz67.bkt.clouddn.com/top4.jpg",
+                "author": "Marlene Wathen",
+                "info": "大理石艺术"
+            },
+            {
+                "_id": "593e929728b7f8543b7907e1",
+                "index": 4,
+                "picture": "http://pqpuavz67.bkt.clouddn.com/top5.jpg",
+                "author": "Manbo",
+                "info": "创意电缆组织者"
+            }
+        ],
+    "midSlider": [
+        {
+            "_id": "593e9297e17df20c4a237d42",
+            "index": 0,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/top1.jpg",
+            "author": "Eva Thissen",
+            "info": "细致软陶饰品"
+        },
+        {
+            "_id": "593e9297ec4cca9c56bf61af",
+            "index": 1,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/top2.jpg",
+            "author": "Kitras",
+            "info": "手吹玻璃饰品"
+        },
+        {
+            "_id": "593e929773c71925e5d7c11c",
+            "index": 2,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/top3.jpg",
+            "author": "Bored Panda",
+            "info": "创意购物袋设计"
+        },
+        {
+            "_id": "593e92973d4d15eedb129aee",
+            "index": 3,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/top4.jpg",
+            "author": "Marlene Wathen",
+            "info": "大理石艺术"
+        }
+    ],
+    "recommended": [
+        {
+            "_id": "593e9297e17df20c4a237d42",
+            "picture": "http://pqpuavz67.bkt.clouddn.com/card1.png",
+            "avatar": "http://pqpuavz67.bkt.clouddn.com/top.png",
+            "author": "Maren Schabhüser",
+            "info": "纸艺术品和布景设计",
+            "bio": "Maren Schabhüser是位于德国汉堡的创意摄影师，造纸艺术家和布景设计师。 “她使用各种材料和技术创造出独特，创新和快乐的图像。",
+            "p1": "她喜欢将图形简洁和鲜艳的色彩结合起来，并采用俏皮的工作方式。在多特蒙德应用科学与艺术大学学习的早期，她已经发现了她对复杂手工作品的热情，并爱上了各种纸张。",
+            "p2": "凭借完美主义的精神，她喜欢创造甜美的简约世界 - 以及静止镜头中的动作片段。在这里，她总是从一些快速的涂鸦开始向客户展示她的想法，然后她带来她的创意纸质作品，并在摄影的帮助下设计设计。”",
+            "link": "https://www.marenschabhueser-studio.com/portfolio"
+        }
+    ],
+    "story": [
+        {
+            "_id": "593e9297e17df20c4a237d42",
+            "picture": "http://pqpuavz67.bkt.clouddn.com/store.png",
+            "author": "由AtelierIrradié设计的LFD品牌",
+            "info": "1皮革时装设计是一个新的渠道，旨在将皮革和时尚产业的专业人士从制造业分销到分销。"
+        },
+        {
+            "_id": "593e9297e17df20c4a237d43",
+            "picture": "http://pqpuavz67.bkt.clouddn.com/store.png",
+            "author": "由AtelierIrradié设计的LFD品牌",
+            "info": "2皮革时装设计是一个新的渠道，旨在将皮革和时尚产业的专业人士从制造业分销到分销。"
+        },
+        {
+            "_id": "593e9297e17df20c4a237d44",
+            "picture": "http://pqpuavz67.bkt.clouddn.com/store.png",
+            "author": "由AtelierIrradié设计的LFD品牌",
+            "info": "3皮革时装设计是一个新的渠道，旨在将皮革和时尚产业的专业人士从制造业分销到分销。"
+        }
+    ],
+    "tabs": [
+        {
+            "_id": "593e9297e17df20c4a237d42",
+            "index": 0,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s2.jpg",
+            "author": "Eva Thissen",
+            "info": "细致软陶饰品"
+        },
+        {
+            "_id": "593e9297ec4cca9c56bf61af",
+            "index": 1,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s6.png",
+            "author": "Kitras",
+            "info": "手吹玻璃饰品"
+        },
+        {
+            "_id": "593e929773c71925e5d7c11c",
+            "index": 2,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s8.png",
+            "author": "Bored Panda",
+            "info": "创意购物袋设计"
+        },
+        {
+            "_id": "593e92973d4d15eedb129aee",
+            "index": 3,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s4.jpg",
+            "author": "Marlene Wathen",
+            "info": "大理石艺术"
+        },
+        {
+            "_id": "593e929728b7f8543b7907e1",
+            "index": 4,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s6.png",
+            "author": "Manbo",
+            "info": "创意电缆组织者"
+        },
+        {
+            "_id": "593e9297e17df20c4a237d42",
+            "index": 0,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s7.png",
+            "author": "Eva Thissen",
+            "info": "细致软陶饰品"
+        },
+        {
+            "_id": "593e9297ec4cca9c56bf61af",
+            "index": 1,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s8.jpg",
+            "author": "Kitras",
+            "info": "手吹玻璃饰品"
+        },
+        {
+            "_id": "593e929773c71925e5d7c11c",
+            "index": 2,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s9.jpg",
+            "author": "Bored Panda",
+            "info": "创意购物袋设计"
+        },
+        {
+            "_id": "593e92973d4d15eedb129aee",
+            "index": 3,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s10.jpg",
+            "author": "Marlene Wathen",
+            "info": "大理石艺术"
+        },
+        {
+            "_id": "593e929728b7f8543b7907e1",
+            "index": 4,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s11.jpg",
+            "author": "Manbo",
+            "info": "创意电缆组织者"
+        },
+        {
+            "_id": "593e9297e17df20c4a237d42",
+            "index": 0,
+            "picture": "http://pqpuavz67.bkt.clouddn.com/s12.jpg",
+            "author": "Eva Thissen",
+            "info": "细致软陶饰品"
+        }
+    ],
+    "tearch": [
+        {
+            "id": "1",
+            "avatar": "http://pqpuavz67.bkt.clouddn.com/top5.jpg",
+            "name": "李梅梅",
+            "bio": "交互设计师"
+        },
+        {
+            "id": "2",
+            "avatar": "http://pqpuavz67.bkt.clouddn.com/top2.jpg",
+            "name": "Clarke Gillebert",
+            "bio": "Karachi"
+        },
+        {
+            "id": "3",
+            "avatar": "http://pqpuavz67.bkt.clouddn.com/top3.jpg",
+            "name": "Kobus van de Vegte",
+            "bio": "Sofia"
+        }
+    ]
+}
+

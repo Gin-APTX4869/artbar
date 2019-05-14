@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_format_paint</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,2 L14,1 C14,0.45 13.55,0 13,0 L1,0 C0.45,0 0,0.45 0,1 L0,5 C0,5.55 0.45,6 1,6 L13,6 C13.55,6 14,5.55 14,5 L14,4 L15,4 L15,8 L5,8 L5,19 C5,19.55 5.45,20 6,20 L8,20 C8.55,20 9,19.55 9,19 L9,10 L17,10 L17,2 L14,2 L14,2 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="50" height="50"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-68.000000, -447.000000)">
+            <g id="分组-12" transform="translate(68.000000, 444.000000)">
+                <g id="ic_format_paint" transform="translate(0.000000, 3.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="🎨-Color" mask="url(#mask-2)">
+                        <g transform="translate(-17.000000, -15.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Black" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
